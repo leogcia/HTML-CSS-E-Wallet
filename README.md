@@ -19,11 +19,11 @@
 
 ## Web
 <p aling="center">
-  <img  height="300" src="./imgMuestra/web-head.PNG" /><br><br>
-  <img width="68%" height="300" src="./imgMuestra/web-section1.PNG" /><br><br>
-  <img height="300" src="./imgMuestra/web-section2.PNG" /><br><br>
-  <img height="300" src="./imgMuestra/web-section3.PNG" /><br><br>
-  <img height="300" src="./imgMuestra/web-section4.PNG" /><br><br>
+  <img  height="300" src="./imgMuestra/web-head.png" /><br><br>
+  <img width="68%" height="300" src="./imgMuestra/web-section1.png" /><br><br>
+  <img height="300" src="./imgMuestra/web-section2.png" /><br><br>
+  <img height="300" src="./imgMuestra/web-section3.png" /><br><br>
+  <img height="300" src="./imgMuestra/web-section4.png" /><br><br>
 </p>
 <br>
 
