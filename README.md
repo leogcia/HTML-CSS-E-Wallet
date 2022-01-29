@@ -4,7 +4,7 @@
 ## Información
 
 -Diseñar una página web con HTML desde cero  completamente responsive. <br>
--Dar estilo con Css utilizado distintas variables (Grid, FelxBox, MediaQuery)<br>
+-Dar estilo con Css utilizado distintas variables (Grid, FlexBox, MediaQuery)<br>
 -Utilizar el método BEM<br>
 -Mejorar el rendimiento utilizando imágenes .avif, .webp, .jpg (dependiendo de cuales navegadores soporten cada formato)<br>
 -Diseño popular en sitios web contemporáneos<br>
